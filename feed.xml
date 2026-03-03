@@ -3,22 +3,10 @@
     <title>MakeVentures</title>
     <link href="https://makeventures.github.io/mviggy/feed.xml" rel="self" />
     <link href="https://makeventures.github.io/mviggy" />
-    <updated>2026-03-03T17:29:02-05:00</updated>
+    <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Igor Samuk</name>
     </author>
     <id>https://makeventures.github.io/mviggy</id>
 
-    <entry>
-        <title>MakeVentures.ca</title>
-        <author>
-            <name>Igor Samuk</name>
-        </author>
-        <link href="https://makeventures.github.io/mviggy/makeventuresca.html"/>
-        <id>https://makeventures.github.io/mviggy/makeventuresca.html</id>
-
-        <updated>2026-03-03T13:59:54-05:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
