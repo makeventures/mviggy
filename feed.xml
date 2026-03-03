@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>MakeVentures</title>
+    <link href="https://makeventures.github.io/mviggy/feed.xml" rel="self" />
+    <link href="https://makeventures.github.io/mviggy" />
+    <updated>2026-03-03T14:21:55-05:00</updated>
+    <author>
+        <name>Igor Samuk</name>
+    </author>
+    <id>https://makeventures.github.io/mviggy</id>
+
+    <entry>
+        <title>MakeVentures.ca</title>
+        <author>
+            <name>Igor Samuk</name>
+        </author>
+        <link href="https://makeventures.github.io/mviggy/makeventuresca.html"/>
+        <id>https://makeventures.github.io/mviggy/makeventuresca.html</id>
+
+        <updated>2026-03-03T13:59:54-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MakeVentures",
+    "description": "",
+    "home_page_url": "https://makeventures.github.io/mviggy",
+    "feed_url": "https://makeventures.github.io/mviggy/feed.json",
+    "user_comment": "",
+    "icon": "https://makeventures.github.io/mviggy/media/website/IggyLab.png",
+    "author": {
+        "name": "Igor Samuk"
+    },
+    "items": [
+        {
+            "id": "https://makeventures.github.io/mviggy/makeventuresca.html",
+            "url": "https://makeventures.github.io/mviggy/makeventuresca.html",
+            "title": "MakeVentures.ca",
+            "author": {
+                "name": "Igor Samuk"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-03T13:59:54-05:00",
+            "date_modified": "2026-03-03T14:21:55-05:00"
+        }
+    ]
+}
