@@ -8,4 +8,12 @@
 <loc>https://makeventures.ca/hello-from-makeventuresca.html</loc>
 <lastmod>2026-03-03T21:15:50-05:00</lastmod>
 </url>
+<url>
+<loc>https://makeventures.ca/this-is-a-post-test.html</loc>
+<lastmod>2026-03-03T21:52:20-05:00</lastmod>
+<image:image>
+<image:loc>https://makeventures.ca/media/posts/3/planet-8937463_1280.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
 </urlset>

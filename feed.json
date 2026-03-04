@@ -10,5 +10,18 @@
         "name": "Igor Samuk"
     },
     "items": [
+        {
+            "id": "https://makeventures.ca/this-is-a-post-test.html",
+            "url": "https://makeventures.ca/this-is-a-post-test.html",
+            "title": "This is a post test",
+            "image": "https://makeventures.ca/media/posts/3/planet-8937463_1280.jpg",
+            "author": {
+                "name": "Igor Samuk"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-03T21:52:20-05:00",
+            "date_modified": "2026-03-03T21:52:20-05:00"
+        }
     ]
 }
