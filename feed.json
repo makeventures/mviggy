@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MakeVentures",
     "description": "",
-    "home_page_url": "https://makeventures.github.io/mviggy",
-    "feed_url": "https://makeventures.github.io/mviggy/feed.json",
+    "home_page_url": "https://makeventures.ca",
+    "feed_url": "https://makeventures.ca/feed.json",
     "user_comment": "",
-    "icon": "https://makeventures.github.io/mviggy/media/website/IggyLab.png",
+    "icon": "https://makeventures.ca/media/website/IggyLab.png",
     "author": {
         "name": "Igor Samuk"
     },
